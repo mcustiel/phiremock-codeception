@@ -29,8 +29,8 @@
     "description" : "Codeception bundle for PhireMock. Integrates phiremock, codeception module and extension all-in-one.",
     "license" : "GPL-3.0-or-later",
     "require" : {
-        "php" : "^7.2 | ^8.0",
-        "mcustiel/phiremock-codeception-extension": "^2.0",
-        "mcustiel/phiremock-codeception-module": "^1.0"
+        "php" : "^8.0",
+        "mcustiel/phiremock-codeception-extension": "^3.0",
+        "mcustiel/phiremock-codeception-module": "^2.0"
     }
 }
